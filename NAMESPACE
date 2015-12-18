@@ -1,0 +1,2 @@
+export(print.nice)
+S3method(print.nice, default)
