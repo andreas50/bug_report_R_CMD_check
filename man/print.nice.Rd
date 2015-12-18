@@ -6,7 +6,11 @@
 \usage{
 print.nice(x, ...)
 
+<<<<<<< HEAD
 \S3method{print.nice}{default}(x, ...)
+=======
+\method{print.nice}{default}(x, ...)
+>>>>>>> 1c1c3802ecd2c79b4b03494fe38c6139a3e6db36
 }
 
 \arguments{

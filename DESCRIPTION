@@ -11,4 +11,7 @@ Description: Illustrate two false-positive NOTEs by 'R CMD check' for generic
     The generic function print.nice() and method print.nice.default() are used
     to illustrate the two false-positive NOTEs.
 License: GPL-2 | GPL-3
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1c1c3802ecd2c79b4b03494fe38c6139a3e6db36
