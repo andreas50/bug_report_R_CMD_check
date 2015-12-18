@@ -8,8 +8,6 @@ Description: Illustrate two false-positive NOTEs by 'R CMD check' for generic
     functions with dot in the name:
     1.) "Found the following apparent S3 methods exported but not registered"
     2.) "S3 methods shown with full name in documentation object"
-  
     The generic function print.nice() and method print.nice.default() are used
     to illustrate the two false-positive NOTEs.
 License: GPL-2 | GPL-3
-RoxygenNote: 5.0.1
